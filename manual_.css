@@ -48,3 +48,7 @@ header h1 {
 .indent_5{
     text-indent: 5em;    
 }
+.broche{
+    width: 80px;
+  height: 80px;
+}
